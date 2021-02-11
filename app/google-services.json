@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "820318828584",
+    "project_id": "brain-analysis",
+    "storage_bucket": "brain-analysis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820318828584:android:1699fa1094c8d5ce549d1d",
+        "android_client_info": {
+          "package_name": "com.soft.brainAnalysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820318828584-656ndpv68kneebu3glim4to1eqrhsdi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soft.brainAnalysis",
+            "certificate_hash": "f90acd66171d32a732df1b361b83ba70919da18b"
+          }
+        },
+        {
+          "client_id": "820318828584-aq23lp73c9s3j1rmhhctvhv4jdkniu7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQerYVXc5FtC36hCr2Tav7qHQWi32l6ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820318828584-aq23lp73c9s3j1rmhhctvhv4jdkniu7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
